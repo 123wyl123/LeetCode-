@@ -2,13 +2,11 @@ package Zero;
 
 
 public class Reverse {
-    public  static ListNode reverseListIterative(ListNode head)
-    {
+    public static ListNode reverseListIterative(ListNode head) {
         ListNode pre = null;
-        ListNode next = null ;
+        ListNode next = null;
         ListNode current = head;
-        while (current!=null)
-        {
+        while (current != null) {
             next = current.next;
             current.next = pre;
             pre = current;
@@ -16,22 +14,18 @@ public class Reverse {
         }
         return pre;
     }
-    public  static  void reverseListIterative1(ListNode current,ListNode head)
-    {
-        if(current==null)
-        {return ;
+
+    public static void reverseListIterative1(ListNode current, ListNode head) {
+        if (current == null) {
+            return;
 
         }
         ListNode next = current.getNext();
-        if(next == null)
-        {
-         head = current;
-         return;
+        if (next == null) {
+            head = current;
+            return;
         }
-
-        reverseListIterative1(next,head);
-
-
+        reverseListIterative1(next, head);
         next.setNext(current);
         current.setNext(null);
 
@@ -46,17 +40,10 @@ public class Reverse {
         b.setNext(c);
         c.setNext(d);
         ListNode e = null;
-        reverseListIterative1(a,e);
+        reverseListIterative1(a, e);
 
     }
-    }
-
-
-
-
-
-
-
+}
 
 
 //    public  static ListNode reverseListIterative(ListNode head)

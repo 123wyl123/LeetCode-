@@ -1,12 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="003823ea-dc1a-42b0-af21-28f7e4a99cf4" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="003823ea-dc1a-42b0-af21-28f7e4a99cf4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Leetcode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-100/1-100.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-100/src/One/ExchangeAdjacentNodes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-100/src/One/InsertSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-100/src/One/LeFour.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-100/src/One/LeNine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-100/src/One/LeOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-100/src/One/LeSeven.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-100/src/One/LeSixtySeven.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-100/src/One/LeThree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-100/src/One/LeTwentyFour.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-100/src/One/LeTwentySeven.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-100/src/One/LeTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-100/src/One/ReorderLists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-100/src/One/Reverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-100/src/One/Reverse1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-100/src/One/ReversePair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/DataStructuresAndAlgorithm/META-INF/DataStructuresAndAlgorithm.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/LeetCode/META-INF/LeetCode.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/out/production/LeetCode/META-INF/LeetCode.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/LeetCode/One/FiftyFive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/LeetCode/Zero/Reverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/out/production/LeetCode/Zero/Reverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/LeetCode/Zero/ReversePair.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/out/production/LeetCode/Zero/ReversePair.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/One/FiftyFive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/Zero/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/Zero/Reverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/Zero/ReversePair.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/Zero/ReversePair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1-100/META-INF/1-100.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1-100/One/ExchangeAdjacentNodes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1-100/One/LeFour.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1-100/One/LeNine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1-100/One/LeOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1-100/One/LeSeven.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1-100/One/LeThree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1-100/One/LeTwentySeven.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1-100/One/LeTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1-100/One/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1-100/One/ReorderLists.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1-100/One/Reverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1-100/One/Reverse1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1-100/One/ReversePair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1-100/One/solution.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -16,75 +68,212 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1btAL0xF7azCROej47v06PmAp3c" />
-  <component name="PropertiesComponent">
-    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReorderLists">
-    <configuration name="ExchangeAdjacentNodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="One.ExchangeAdjacentNodes" />
-      <module name="1-100" />
+  <component name="ProjectId" id="1btAL0xF7azCROej47v06PmAp3c" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.14550781" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Application.LeSix">
+    <configuration name="BuildBinartTreeIPre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree.BuildBinartTreeIPre" />
+      <module name="DataStructuresAndAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeTwentySeven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="One.LeTwentySeven" />
-      <module name="1-100" />
+    <configuration name="BuildBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree.BuildBinaryTree" />
+      <module name="DataStructuresAndAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReorderLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="One.ReorderLists" />
-      <module name="1-100" />
+    <configuration name="LeOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="One.LeOne" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="One.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="One.Reverse" />
-      <module name="1-100" />
+    <configuration name="LeSix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Two.LeSix" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Two.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reverse1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="One.Reverse1" />
-      <module name="1-100" />
+    <configuration name="LeZeroFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CrackingTheCodingInterview.LeZeroFour" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CrackingTheCodingInterview.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.BuildBinartTreeIPre" />
+      <item itemvalue="Application.BuildBinaryTree" />
+      <item itemvalue="Application.LeZeroFour" />
+      <item itemvalue="Application.LeOne" />
+      <item itemvalue="Application.LeSix" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReorderLists" />
-        <item itemvalue="Application.Reverse1" />
-        <item itemvalue="Application.ExchangeAdjacentNodes" />
-        <item itemvalue="Application.Reverse" />
-        <item itemvalue="Application.LeTwentySeven" />
+        <item itemvalue="Application.LeSix" />
+        <item itemvalue="Application.LeOne" />
+        <item itemvalue="Application.LeZeroFour" />
+        <item itemvalue="Application.BuildBinaryTree" />
+        <item itemvalue="Application.BuildBinartTreeIPre" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\47085\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="003823ea-dc1a-42b0-af21-28f7e4a99cf4" name="Default Changelist" comment="" />
+      <created>1590128277853</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590128277853</updated>
+      <workItem from="1590128280530" duration="26000" />
+      <workItem from="1590128341230" duration="12640000" />
+      <workItem from="1590196939474" duration="17365000" />
+      <workItem from="1590235560685" duration="5032000" />
+      <workItem from="1590287057296" duration="8409000" />
+      <workItem from="1590371156726" duration="8548000" />
+      <workItem from="1590457072890" duration="8049000" />
+      <workItem from="1590626892375" duration="14111000" />
+      <workItem from="1590716807516" duration="8760000" />
+      <workItem from="1590801308636" duration="5263000" />
+      <workItem from="1590813804976" duration="11074000" />
+      <workItem from="1590887757000" duration="5571000" />
+      <workItem from="1590973358438" duration="23362000" />
+      <workItem from="1591059014000" duration="4426000" />
+      <workItem from="1591278261026" duration="1482000" />
+      <workItem from="1591363413977" duration="14105000" />
+      <workItem from="1591577657421" duration="672000" />
+    </task>
+    <servers />
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="419" height="466" key="DebuggerActiveHint" timestamp="1591512569147">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="419" height="466" key="DebuggerActiveHint/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1591512569147" />
+    <state x="1382" y="484" key="FileChooserDialogImpl" timestamp="1591425746944">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1382" y="484" key="FileChooserDialogImpl/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1591425746944" />
+    <state width="1344" height="329" key="GridCell.Tab.0.bottom" timestamp="1591512616174">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1344" height="329" key="GridCell.Tab.0.bottom/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1591512616174" />
+    <state width="1344" height="329" key="GridCell.Tab.0.center" timestamp="1591512616173">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1344" height="329" key="GridCell.Tab.0.center/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1591512616173" />
+    <state width="1344" height="329" key="GridCell.Tab.0.left" timestamp="1591512616173">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1344" height="329" key="GridCell.Tab.0.left/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1591512616173" />
+    <state width="1344" height="329" key="GridCell.Tab.0.right" timestamp="1591512616174">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1344" height="329" key="GridCell.Tab.0.right/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1591512616174" />
+    <state width="1344" height="329" key="GridCell.Tab.1.bottom" timestamp="1591512616174">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1344" height="329" key="GridCell.Tab.1.bottom/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1591512616174" />
+    <state width="1344" height="329" key="GridCell.Tab.1.center" timestamp="1591512616174">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1344" height="329" key="GridCell.Tab.1.center/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1591512616174" />
+    <state width="1344" height="329" key="GridCell.Tab.1.left" timestamp="1591512616174">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1344" height="329" key="GridCell.Tab.1.left/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1591512616174" />
+    <state width="1344" height="329" key="GridCell.Tab.1.right" timestamp="1591512616174">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1344" height="329" key="GridCell.Tab.1.right/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1591512616174" />
+    <state x="782" y="345" key="SettingsEditor" timestamp="1591580803790">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="782" y="345" key="SettingsEditor/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1591580803790" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -99,12 +288,22 @@
           <line>105</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/1-100/src/One/InsertSort.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/src/CrackingTheCodingInterview/LeZeroFour.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DataStructuresAndAlgorithm/src/Tree/BinarySearchTreeNode.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="sta" language="JAVA" />
-      </configuration>
-    </watches-manager>
   </component>
 </project>
