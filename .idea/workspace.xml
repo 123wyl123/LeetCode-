@@ -2,51 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="003823ea-dc1a-42b0-af21-28f7e4a99cf4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Leetcode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-100/1-100.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-100/src/One/ExchangeAdjacentNodes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-100/src/One/InsertSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-100/src/One/LeFour.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-100/src/One/LeNine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-100/src/One/LeOne.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-100/src/One/LeSeven.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-100/src/One/LeSixtySeven.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-100/src/One/LeThree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-100/src/One/LeTwentyFour.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-100/src/One/LeTwentySeven.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-100/src/One/LeTwo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-100/src/One/ReorderLists.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-100/src/One/Reverse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-100/src/One/Reverse1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-100/src/One/ReversePair.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/DataStructuresAndAlgorithm/META-INF/DataStructuresAndAlgorithm.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/LeetCode/META-INF/LeetCode.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/out/production/LeetCode/META-INF/LeetCode.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/LeetCode/One/FiftyFive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/LeetCode/Zero/Reverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/out/production/LeetCode/Zero/Reverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/LeetCode/Zero/ReversePair.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/out/production/LeetCode/Zero/ReversePair.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/One/FiftyFive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/Zero/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/Zero/Reverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/Zero/ReversePair.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/Zero/ReversePair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1-100/META-INF/1-100.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1-100/One/ExchangeAdjacentNodes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1-100/One/LeFour.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1-100/One/LeNine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1-100/One/LeOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1-100/One/LeSeven.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1-100/One/LeThree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1-100/One/LeTwentySeven.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1-100/One/LeTwo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1-100/One/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1-100/One/ReorderLists.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1-100/One/Reverse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1-100/One/Reverse1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1-100/One/ReversePair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1-100/One/solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/Zero/MaxRectangleAreaInHistrogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/Zero/MaxRectangleAreaInHistrogram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,13 +56,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Application.LeSix">
-    <configuration name="BuildBinartTreeIPre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tree.BuildBinartTreeIPre" />
-      <module name="DataStructuresAndAlgorithm" />
+  <component name="RunManager" selected="Application.LeFourteen (1)">
+    <configuration name="LeFourteen (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ten.LeFourteen" />
+      <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tree.*" />
+          <option name="PATTERN" value="Ten.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,21 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BuildBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tree.BuildBinaryTree" />
-      <module name="DataStructuresAndAlgorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="One.LeOne" />
+    <configuration name="LeFourteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="One.LeFourteen" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -138,21 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeSix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Two.LeSix" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Two.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeZeroFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CrackingTheCodingInterview.LeZeroFour" />
+    <configuration name="LeFourtySeven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CrackingTheCodingInterview.LeFourtySeven" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -164,20 +96,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MaxRectangleAreaInHistrogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zero.MaxRectangleAreaInHistrogram" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zero.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NinetyEight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="One.NinetyEight" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="One.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.BuildBinartTreeIPre" />
-      <item itemvalue="Application.BuildBinaryTree" />
-      <item itemvalue="Application.LeZeroFour" />
-      <item itemvalue="Application.LeOne" />
-      <item itemvalue="Application.LeSix" />
+      <item itemvalue="Application.MaxRectangleAreaInHistrogram" />
+      <item itemvalue="Application.NinetyEight" />
+      <item itemvalue="Application.LeFourteen" />
+      <item itemvalue="Application.LeFourtySeven" />
+      <item itemvalue="Application.LeFourteen (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LeSix" />
-        <item itemvalue="Application.LeOne" />
-        <item itemvalue="Application.LeZeroFour" />
-        <item itemvalue="Application.BuildBinaryTree" />
-        <item itemvalue="Application.BuildBinartTreeIPre" />
+        <item itemvalue="Application.LeFourteen (1)" />
+        <item itemvalue="Application.LeFourtySeven" />
+        <item itemvalue="Application.LeFourteen" />
+        <item itemvalue="Application.NinetyEight" />
+        <item itemvalue="Application.MaxRectangleAreaInHistrogram" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +165,14 @@
       <workItem from="1591059014000" duration="4426000" />
       <workItem from="1591278261026" duration="1482000" />
       <workItem from="1591363413977" duration="14105000" />
-      <workItem from="1591577657421" duration="672000" />
+      <workItem from="1591577657421" duration="8844000" />
+      <workItem from="1591666420847" duration="3045000" />
+      <workItem from="1591752915260" duration="769000" />
+      <workItem from="1591837287818" duration="12126000" />
+      <workItem from="1592097493183" duration="7541000" />
+      <workItem from="1592183048505" duration="4894000" />
+      <workItem from="1592274586052" duration="6988000" />
+      <workItem from="1592356056295" duration="3717000" />
     </task>
     <servers />
   </component>
@@ -238,42 +203,46 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1382" y="484" key="FileChooserDialogImpl/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1591425746944" />
-    <state width="1344" height="329" key="GridCell.Tab.0.bottom" timestamp="1591512616174">
+    <state width="1434" height="247" key="GridCell.Tab.0.bottom" timestamp="1592357060984">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1344" height="329" key="GridCell.Tab.0.bottom/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1591512616174" />
-    <state width="1344" height="329" key="GridCell.Tab.0.center" timestamp="1591512616173">
+    <state width="1434" height="247" key="GridCell.Tab.0.bottom/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1592357060984" />
+    <state width="1434" height="247" key="GridCell.Tab.0.center" timestamp="1592357060984">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1344" height="329" key="GridCell.Tab.0.center/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1591512616173" />
-    <state width="1344" height="329" key="GridCell.Tab.0.left" timestamp="1591512616173">
+    <state width="1434" height="247" key="GridCell.Tab.0.center/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1592357060984" />
+    <state width="1434" height="247" key="GridCell.Tab.0.left" timestamp="1592357060984">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1344" height="329" key="GridCell.Tab.0.left/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1591512616173" />
-    <state width="1344" height="329" key="GridCell.Tab.0.right" timestamp="1591512616174">
+    <state width="1434" height="247" key="GridCell.Tab.0.left/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1592357060984" />
+    <state width="1434" height="247" key="GridCell.Tab.0.right" timestamp="1592357060984">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1344" height="329" key="GridCell.Tab.0.right/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1591512616174" />
-    <state width="1344" height="329" key="GridCell.Tab.1.bottom" timestamp="1591512616174">
+    <state width="1434" height="247" key="GridCell.Tab.0.right/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1592357060984" />
+    <state width="1434" height="247" key="GridCell.Tab.1.bottom" timestamp="1592357061246">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1344" height="329" key="GridCell.Tab.1.bottom/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1591512616174" />
-    <state width="1344" height="329" key="GridCell.Tab.1.center" timestamp="1591512616174">
+    <state width="1434" height="247" key="GridCell.Tab.1.bottom/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1592357061246" />
+    <state width="1434" height="247" key="GridCell.Tab.1.center" timestamp="1592357061246">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1344" height="329" key="GridCell.Tab.1.center/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1591512616174" />
-    <state width="1344" height="329" key="GridCell.Tab.1.left" timestamp="1591512616174">
+    <state width="1434" height="247" key="GridCell.Tab.1.center/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1592357061246" />
+    <state width="1434" height="247" key="GridCell.Tab.1.left" timestamp="1592357061246">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1344" height="329" key="GridCell.Tab.1.left/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1591512616174" />
-    <state width="1344" height="329" key="GridCell.Tab.1.right" timestamp="1591512616174">
+    <state width="1434" height="247" key="GridCell.Tab.1.left/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1592357061246" />
+    <state width="1434" height="247" key="GridCell.Tab.1.right" timestamp="1592357061246">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1344" height="329" key="GridCell.Tab.1.right/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1591512616174" />
-    <state x="782" y="345" key="SettingsEditor" timestamp="1591580803790">
+    <state width="1434" height="247" key="GridCell.Tab.1.right/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1592357061246" />
+    <state x="1555" y="493" key="RollbackChangesDialog" timestamp="1591842107552">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="782" y="345" key="SettingsEditor/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1591580803790" />
+    <state x="1555" y="493" key="RollbackChangesDialog/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1591842107552" />
+    <state x="782" y="345" key="SettingsEditor" timestamp="1591666457604">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="782" y="345" key="SettingsEditor/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1591666457604" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -303,7 +272,17 @@
           <line>8</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/src/Four/LeThirtyFour.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="strs[i+1].length()" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
