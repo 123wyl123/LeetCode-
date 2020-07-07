@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="003823ea-dc1a-42b0-af21-28f7e4a99cf4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/Three/SeventyEight.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -213,6 +212,8 @@
       <workItem from="1593822572437" duration="3432000" />
       <workItem from="1593916905934" duration="6687000" />
       <workItem from="1593998203673" duration="6288000" />
+      <workItem from="1594039825088" duration="605000" />
+      <workItem from="1594080918032" duration="3367000" />
     </task>
     <servers />
   </component>
@@ -275,10 +276,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1432" height="242" key="GridCell.Tab.1.right/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1593738591026" />
-    <state x="1555" y="493" key="RollbackChangesDialog" timestamp="1593567446592">
+    <state x="1555" y="493" key="RollbackChangesDialog" timestamp="1594081062419">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1555" y="493" key="RollbackChangesDialog/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1593567446592" />
+    <state x="1555" y="493" key="RollbackChangesDialog/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1594081062419" />
     <state x="782" y="345" key="SettingsEditor" timestamp="1591666457604">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
