@@ -72,7 +72,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Application.EightyFive">
+  <component name="RunManager" selected="Application.NinetySeven">
     <configuration name="EightyFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Seven.EightyFive" />
       <module name="LeetCode" />
@@ -99,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SevenTeenThirteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CrackingTheCodingInterview.SevenTeenThirteen" />
+    <configuration name="NinetySeven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zero.NinetySeven" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CrackingTheCodingInterview.*" />
+          <option name="PATTERN" value="Zero.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,19 +139,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SevenTeenThirteen" />
       <item itemvalue="Application.Two" />
       <item itemvalue="Application.TwetyTwo" />
       <item itemvalue="Application.Fifty" />
       <item itemvalue="Application.EightyFive" />
+      <item itemvalue="Application.NinetySeven" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NinetySeven" />
         <item itemvalue="Application.EightyFive" />
         <item itemvalue="Application.Fifty" />
         <item itemvalue="Application.TwetyTwo" />
         <item itemvalue="Application.Two" />
-        <item itemvalue="Application.SevenTeenThirteen" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +224,8 @@
       <workItem from="1594727384403" duration="3000" />
       <workItem from="1594774357771" duration="2787000" />
       <workItem from="1594860944977" duration="8740000" />
-      <workItem from="1594946458672" duration="1000000" />
+      <workItem from="1594946458672" duration="1325000" />
+      <workItem from="1595032367954" duration="2056000" />
     </task>
     <servers />
   </component>
