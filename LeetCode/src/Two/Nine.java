@@ -1,5 +1,7 @@
 package Two;
 
+import java.util.ArrayList;
+
 public class Nine {
     public int minSubArrayLen(int s, int[] nums) {
 
@@ -34,6 +36,14 @@ public class Nine {
         }
     return min;
 
+    }
+
+    public static void main(String[] args) {
+        ArrayList<Integer> arrayLists = new ArrayList<>();
+        arrayLists.add(1);
+        int a=    arrayLists.get(0);
+        a++;
+        System.out.println(arrayLists.get(0));
     }
 
 
