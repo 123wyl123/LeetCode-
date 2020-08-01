@@ -3,12 +3,12 @@ package nowcoder.Eight_one;
 public class one {
     public double circumference (int k) {
         // write code here        for (int i = 0; i <k ; i++) {
-            double T = 3.1415926;
+            double T = 3.1415927;
             double T1[] = new double[6];
             T1[0]=T/3.0;
-            T1[1]=2*T/3.0;
+            T1[1]=Math.sqrt(3)*T/3.0;
             T1[2] = 2*T/3.0;
-            T1[3] = 2*T/3.0;
+            T1[3] = Math.sqrt(3)*T/3.0;
             T1[4] = T/3.0;
             T1[5] = 0;
             double sum = 0;

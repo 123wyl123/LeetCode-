@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="003823ea-dc1a-42b0-af21-28f7e4a99cf4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/nowcoder/Eight_one/one.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/nowcoder/Eight_one/one.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +72,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
-  <component name="RunManager" selected="Application.two">
+  <component name="RunManager" selected="Application.one">
     <configuration name="FiftyNine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Five.FiftyNine" />
       <module name="LeetCode" />
@@ -147,8 +147,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.two" />
         <item itemvalue="Application.one" />
+        <item itemvalue="Application.two" />
         <item itemvalue="Application.FiftyNine" />
         <item itemvalue="Application.Two" />
         <item itemvalue="Application.Ninety" />
@@ -248,7 +248,7 @@
       <workItem from="1596176067327" duration="44000" />
       <workItem from="1596177053481" duration="1608000" />
       <workItem from="1596196343358" duration="3917000" />
-      <workItem from="1596286873479" duration="3899000" />
+      <workItem from="1596286873479" duration="4394000" />
     </task>
     <servers />
   </component>
