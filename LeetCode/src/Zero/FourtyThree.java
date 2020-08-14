@@ -46,9 +46,7 @@ public class FourtyThree {
 
     public static void main(String[] args) {
         String num1 = "123", num2 = "456";
-        new FourtyThree().multiply(num1,num2);
-
+        new FourtyThree().multiply(num1, num2);
     }
-
 }
 
