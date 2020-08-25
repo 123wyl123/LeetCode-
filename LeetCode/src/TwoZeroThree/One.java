@@ -5,9 +5,9 @@ import java.util.List;
 
 public class One {
     public List<Integer> mostVisited(int n, int[] rounds) {
-        int aa[] = new int[n+1];
+        int aa[] = new int[n + 1];
 
-        for (int i = 0; i+1 < rounds.length; i++) {
+        for (int i = 0; i + 1 < rounds.length; i++) {
             int a = rounds[i];
             int b = rounds[i + 1];
             while (a != b) {

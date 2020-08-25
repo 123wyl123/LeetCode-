@@ -7,21 +7,21 @@ public class Three {
     public int findLatestStep(int[] arr, int m) {
         int n = arr.length;
         int res = -1;
-        int[] length = new int[n+2];
-        int[] count = new int[n+1];
-        for (int i = 0; i <n ; i++) {
-            int a = arr[i],left = length[a-1],right = length[a+1];
-            length[a] = length[a-left]=length[a+right] = left+right+1;
+        int[] length = new int[n + 2];
+        int[] count = new int[n + 1];
+        for (int i = 0; i < n; i++) {
+            int a = arr[i], left = length[a - 1], right = length[a + 1];
+            length[a] = length[a - left] = length[a + right] = left + right + 1;
             count[left]--;
             count[right]--;
-            count[left+right+1]++;
-            if(count[m]>0)
-            {
-                res = i+1;
+            count[left + right + 1]++;
+            if (count[m] > 0) {
+                res = i + 1;
             }
         }
-return res;
+        return res;
     }
+
     public int findLatestStep1(int[] arr, int m) {
         int res = -1, n = arr.length;
         Map<Integer, Integer> map = new HashMap<>();
@@ -39,8 +39,8 @@ return res;
     }
 
     public static void main(String[] args) {
-        int a[] = {3,1,5,4,2};
-        new Three().findLatestStep(a,2);
+        int a[] = {3, 1, 5, 4, 2};
+        new Three().findLatestStep(a, 2);
     }
 }
 

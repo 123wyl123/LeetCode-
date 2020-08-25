@@ -37,6 +37,7 @@ public class Four {
     public int get(int l, int r, int[] arr) {
         return arr[r] - arr[l - 1];
     }
+
     public int stoneGameV1(int[] stoneValue) {
         int N = stoneValue.length;
 
