@@ -2,58 +2,44 @@ package BiweeklyThirtyFour;
 
 public class Three {
     public int findLengthOfShortestSubarray(int[] arr) {
-if(arr.length<=1)
-{
-    return 0;
-}
-int end =-1;
-int start = -1;
-        for (int i = arr.length-1; i >0 ; i--) {
-            if(arr[i]<arr[i-1])
+        int length = arr.length;
+        int start = 0;
+        int end   = 0;
+        for (int i = 0; i < length-1; i++) {
+            if (arr[i] <= arr[i + 1])
+            {
+                continue;
+            }else
+            {
+                start = i;
+                break;
+            }
+        }
+        for (int i = length-1; i >0 ; i--) {
+            if(arr[i]>=arr[i-1])
+            {
+                continue;
+            }else
             {
                 end = i;
                 break;
             }
         }
-        if(end==-1)
+        int newstart = start;
+        int newend = end;
+        while (start>=0&&arr[start]>arr[end])
         {
-            return 0;
+            start--;
         }
-        for (int i = 0; i <arr.length-1 ; i++) {
-            if(arr[i]>arr[i+1])
-            {
-                start=i;
-                break;
-            }
-        }
-        int newstart =start;
-        int newend =end;
-        for (; newstart >=0 ; newstart--) {
-            if(arr[newstart]<=arr[end])
-            {
-                break;
-            }
-        }
-        if(newstart==-1)
+        int temp = end-start-1;
+        while (end<length&&arr[newstart]>arr[end])
         {
-            return end;
+            end++;
         }
-        for (; newend <=arr.length-1 ; newend++) {
-            if(arr[newend]>=arr[start])
-            {
-                break;
-            }
-        }
-        if(newend==arr.length)
-        {
-            return arr.length-start-1;
-        }
-        return Math.min(end-newstart-1,newend-start-1);
+        temp = Math.min(temp,end-newstart-1);
+        return temp<0?0:temp;
     }
 
 
-    public static void main(String[] args) {
-      int a[]=  {6,11,20,20,7,22,22,22,6,4,9};
-        new Three().findLengthOfShortestSubarray(a);
-    }
+
 }
