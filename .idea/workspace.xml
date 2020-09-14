@@ -20,78 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="003823ea-dc1a-42b0-af21-28f7e4a99cf4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructuresAndAlgorithm/DataStructuresAndAlgorithm.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructuresAndAlgorithm/src/Heap/FindKthLargestEle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructuresAndAlgorithm/src/Heap/Heap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructuresAndAlgorithm/src/Heap/HeapStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructuresAndAlgorithm/src/Tree/AVLTreeNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructuresAndAlgorithm/src/Tree/AreStructureSameTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructuresAndAlgorithm/src/Tree/AvlNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructuresAndAlgorithm/src/Tree/BST2DLL.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructuresAndAlgorithm/src/Tree/BinarySearchTreeNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructuresAndAlgorithm/src/Tree/BuildBST.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructuresAndAlgorithm/src/Tree/BuildBinartTreeIPre.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructuresAndAlgorithm/src/Tree/BuildBinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructuresAndAlgorithm/src/Tree/DLLtoBalanced.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructuresAndAlgorithm/src/Tree/FillNextSiblings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructuresAndAlgorithm/src/Tree/InOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructuresAndAlgorithm/src/Tree/InorderSuccessor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructuresAndAlgorithm/src/Tree/LCA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructuresAndAlgorithm/src/Tree/PostOrderNonRecursive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructuresAndAlgorithm/src/Tree/PreOrderNonRecurisive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructuresAndAlgorithm/src/Tree/PrintAllAncestors.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructuresAndAlgorithm/src/Tree/PrinthPath.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructuresAndAlgorithm/src/Tree/SearchDelete.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructuresAndAlgorithm/src/Tree/SortedListToBST.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructuresAndAlgorithm/src/Tree/ThreadedBinaryTreeNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructuresAndAlgorithm/src/Tree/TreeNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructuresAndAlgorithm/src/Tree/VerticalSumInBinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructuresAndAlgorithm/src/Tree/ZigzagTraversal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructuresAndAlgorithm/src/Tree/kthSmallestInBST.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructuresAndAlgorithm/src/Tree/zigzagLevelOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/DataStructuresAndAlgorithm/Heap/FindKthLargestEle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/DataStructuresAndAlgorithm/Heap/Heap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/DataStructuresAndAlgorithm/Heap/HeapStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/DataStructuresAndAlgorithm/Tree/AVLTreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/DataStructuresAndAlgorithm/Tree/AreStructureSameTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/DataStructuresAndAlgorithm/Tree/AvlNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/DataStructuresAndAlgorithm/Tree/BST2DLL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/DataStructuresAndAlgorithm/Tree/BinarySearchTreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/DataStructuresAndAlgorithm/Tree/BinaryTreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/DataStructuresAndAlgorithm/Tree/BuildBST.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/DataStructuresAndAlgorithm/Tree/BuildBinartTreeIPre.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/DataStructuresAndAlgorithm/Tree/BuildBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/DataStructuresAndAlgorithm/Tree/DLLtoBalanced.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/DataStructuresAndAlgorithm/Tree/FillNextSiblings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/DataStructuresAndAlgorithm/Tree/InOrder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/DataStructuresAndAlgorithm/Tree/Index.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/DataStructuresAndAlgorithm/Tree/InorderSuccessor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/DataStructuresAndAlgorithm/Tree/LCA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/DataStructuresAndAlgorithm/Tree/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/DataStructuresAndAlgorithm/Tree/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/DataStructuresAndAlgorithm/Tree/Node1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/DataStructuresAndAlgorithm/Tree/PostOrderNonRecursive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/DataStructuresAndAlgorithm/Tree/PreOrderNonRecurisive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/DataStructuresAndAlgorithm/Tree/PrintAllAncestors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/DataStructuresAndAlgorithm/Tree/PrinthPath.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/DataStructuresAndAlgorithm/Tree/RetrunType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/DataStructuresAndAlgorithm/Tree/SearchDelete.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/DataStructuresAndAlgorithm/Tree/SortedListToBST.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/DataStructuresAndAlgorithm/Tree/ThreadedBinaryTreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/DataStructuresAndAlgorithm/Tree/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/DataStructuresAndAlgorithm/Tree/TreeNode1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/DataStructuresAndAlgorithm/Tree/TreeNode2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/DataStructuresAndAlgorithm/Tree/VerticalSumInBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/DataStructuresAndAlgorithm/Tree/ZigzagTraversal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/DataStructuresAndAlgorithm/Tree/kthSmallestInBST.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/DataStructuresAndAlgorithm/Tree/zigzagLevelOrder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/LeetCode/BiweeklyThirtyFour/Three.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/out/production/LeetCode/BiweeklyThirtyFour/Three.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/LeetCode/Four/EightySix.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/out/production/LeetCode/Four/EightySix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/LeetCode/META-INF/LeetCode.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/BiweeklyThirtyFour/Three.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/BiweeklyThirtyFour/Three.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/Four/EightySix.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/Four/EightySix.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -368,6 +297,8 @@
       <workItem from="1599791529791" duration="9856000" />
       <workItem from="1599822219567" duration="8934000" />
       <workItem from="1599964346860" duration="6931000" />
+      <workItem from="1600044363680" duration="1661000" />
+      <workItem from="1600081923354" duration="10000" />
     </task>
     <servers />
   </component>
