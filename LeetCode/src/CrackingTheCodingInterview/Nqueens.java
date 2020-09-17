@@ -99,5 +99,14 @@ public class Nqueens {
         end = System.currentTimeMillis();
         System.out.println("cost time: " + (end - start) + "ms");
 
+
+            int x =13;
+      int i=  (x-2)/12;
+      int res = 200*(31-15)/31;
+        for (int j = 0; j <i ; j++) {
+            res+=200*12*Math.pow(1.04,i);
+        }
+        res+=200*Math.pow(1.04,i)*(x-i*12-1-1)+Math.pow(1.04,i)*200*(29/31);
     }
+
 }

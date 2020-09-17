@@ -5,10 +5,9 @@ public class TwentySix {
         d(root);
         return root;
     }
-    public TreeNode d(TreeNode root)
-    {
-        if (root==null)
-        {
+
+    public TreeNode d(TreeNode root) {
+        if (root == null) {
             return null;
         }
         TreeNode d = d(root.left);
