@@ -5,7 +5,7 @@ public class Four {
 
     public int sumOfLeftLeaves(TreeNode root) {
         result = 0;
-        if (root.left == null && root.right == null || root == null) {
+        if (root == null||root.left == null && root.right == null ) {
             return 0;
         }
 
