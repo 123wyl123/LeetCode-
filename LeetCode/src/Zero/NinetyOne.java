@@ -45,7 +45,7 @@ public class NinetyOne {
                 a[i+1] = a[i];
             }
             if (i-1>=0&&(s.charAt(i-1)=='1'||s.charAt(i-1)=='2'&&s.charAt(i)<='6'))
-            { 
+            {
                 a[i+1]+=a[i-1];
             }
         }
