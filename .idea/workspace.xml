@@ -21,14 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="003823ea-dc1a-42b0-af21-28f7e4a99cf4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/LeetCode/One/TreeNode$LeNine.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/out/production/LeetCode/One/TreeNode$LeNine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/LeetCode/One/TreeNode$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/out/production/LeetCode/One/TreeNode$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/LeetCode/One/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/out/production/LeetCode/One/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/LeetCode/Two/FourtySeven.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/out/production/LeetCode/Two/FourtySeven.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/One/LeNine.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/One/LeNine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/One/SixtySeven.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/One/SixtySeven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/Two/FourtySeven.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/Two/FourtySeven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/Zero/FourtyTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/Zero/FourtyTwo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -316,7 +308,7 @@
       <workItem from="1600566884111" duration="10758000" />
       <workItem from="1600648852433" duration="20774000" />
       <workItem from="1600755182821" duration="1704000" />
-      <workItem from="1600821503222" duration="18593000" />
+      <workItem from="1600821503222" duration="22536000" />
     </task>
     <servers />
   </component>
