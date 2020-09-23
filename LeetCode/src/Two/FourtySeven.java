@@ -18,6 +18,7 @@ public class FourtySeven {
         if (n == 1) return new ArrayList<String>(Arrays.asList("0", "1", "8"));
         List<String> a = helper(n - 2, m);
         List<String> res = new ArrayList<String>();
+
         for (int i = 0; i < a.size(); i++) {
             String s = a.get(i);
             if (n != m) res.add("0" + s + "0");

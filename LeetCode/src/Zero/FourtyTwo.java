@@ -21,6 +21,28 @@ public class FourtyTwo {
         return ans;
     }
 
+    public int trap1(int[] height) {
+        if (height == null || height.length < 2) {
+            return 0;
+        }
+        int N = height.length;
+        int water = 0;
+        int L = 1;
+        int leftMax = height[0];
+        int R = N - 2;
+        int rightMax = height[N - 1];
+        while (L <= R) {
+            if (leftMax <= rightMax) {
+                water += Math.max(leftMax - height[L], 0);
+                leftMax = Math.max(leftMax, height[L++]);
+            } else {
+                water += Math.max(rightMax - height[R], 0);
+                rightMax = Math.max(rightMax, height[R--]);
+            }
+        }
+        return water;
+    }
+
     public static void main(String[] args) {
         int a[] = {0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1};
 
