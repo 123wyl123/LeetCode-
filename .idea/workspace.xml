@@ -21,10 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="003823ea-dc1a-42b0-af21-28f7e4a99cf4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/LeetCode/Three/FourtyFour$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/LeetCode/Three/FourtyFour.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/out/production/LeetCode/Three/FourtyFour.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/LCCUP/Three.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/LCCUP/Three.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/Three/FourtyFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/Three/FiftyFour.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -325,7 +321,7 @@
       <workItem from="1602034728672" duration="937000" />
       <workItem from="1602121102069" duration="791000" />
       <workItem from="1602204429210" duration="322000" />
-      <workItem from="1602205457525" duration="8105000" />
+      <workItem from="1602205457525" duration="11189000" />
     </task>
     <servers />
   </component>
