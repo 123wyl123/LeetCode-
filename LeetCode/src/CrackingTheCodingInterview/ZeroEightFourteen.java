@@ -38,5 +38,5 @@ public class ZeroEightFourteen {
         }
         return result == 1 ? t[0][length - 1] : f[0][length - 1];
     }
-    
+
 }
