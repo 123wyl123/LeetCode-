@@ -31,6 +31,6 @@ public class ThirtyTwo {
                     dp[i] = Math.min(dp[i],dp[j+1]+1);
             }
         }
-        return dp[0];
+        return dp[0]-1;
     }
 }
