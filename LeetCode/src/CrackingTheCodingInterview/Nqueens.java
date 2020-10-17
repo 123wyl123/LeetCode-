@@ -90,7 +90,7 @@ public class Nqueens {
         int n = 15;
 
         long start = System.currentTimeMillis();
-        System.out.println(num2(n));
+        num2(n);
         long end = System.currentTimeMillis();
         System.out.println("cost time: " + (end - start) + "ms");
 
