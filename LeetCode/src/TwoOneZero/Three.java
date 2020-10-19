@@ -12,7 +12,7 @@ public class Three {
                 break;
             }
         }
-        if (l <= r) {
+        if (l >= r) {
             return true;
         }
         int l1 = l;
@@ -25,7 +25,7 @@ public class Three {
                 break;
             }
         }
-        if (l == r) {
+        if (l >= r) {
             return true;
         }
         l = l1;
@@ -38,7 +38,7 @@ public class Three {
                 break;
             }
         }
-        if (l == r) {
+        if (l >= r) {
             return true;
         }
         l = 0;
@@ -51,7 +51,7 @@ public class Three {
                 break;
             }
         }
-        if (l == r) {
+        if (l >= r) {
             return true;
         }
         l1 = l;
@@ -64,7 +64,7 @@ public class Three {
                 break;
             }
         }
-        if (l == r) {
+        if (l >= r) {
             return true;
         }
         l = l1;
