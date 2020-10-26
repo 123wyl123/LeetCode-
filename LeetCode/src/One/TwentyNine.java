@@ -1,38 +1,33 @@
 package One;
 
 public class TwentyNine {
-    int sum ;
+    int sum;
+
     public int sumNumbers(TreeNode root) {
         sum = 0;
-        if (root!=null)
-        {
-            dfs(root,root.val);
+        if (root != null) {
+            dfs(root, root.val);
             return sum;
-        }else
-        {
+        } else {
             return 0;
         }
 
 
     }
-    public void dfs(TreeNode root ,int val)
-    {
-        if (root==null)
-        {
+
+    public void dfs(TreeNode root, int val) {
+        if (root == null) {
             return;
         }
-        if (root.left==null&&root.right==null)
-        {
-            sum+=val;
+        if (root.left == null && root.right == null) {
+            sum += val;
             return;
         }
-        if (root.left!=null)
-        {
-            dfs(root.left,val*10+root.left.val);
+        if (root.left != null) {
+            dfs(root.left, val * 10 + root.left.val);
         }
-        if (root.right!=null)
-        {
-            dfs(root.right,val*10+root.right.val);
+        if (root.right != null) {
+            dfs(root.right, val * 10 + root.right.val);
         }
 
 
