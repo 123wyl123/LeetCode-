@@ -24,7 +24,7 @@ public class Fourteen {
         if (root.val==1)
         {
             return true;
-        }else 
+        }else
         {
             return left||right;
         }
