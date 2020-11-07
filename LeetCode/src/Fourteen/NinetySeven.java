@@ -37,14 +37,7 @@ public class NinetySeven {
     public static void main(String[] args) {
         int a[] = {-4, -7, 5, 2, 9, 1, 10, 4, -8, -3};
 
-   new NinetySeven().canArrange(a, 3);
+        new NinetySeven().canArrange(a, 3);
 
     }
 }
-//[-4,-7,5,2,9,1,10,4,-8,-3]
-//        3
-//-4 1
-//-7 10
-//5 4
-//2 -8
-//9 -3

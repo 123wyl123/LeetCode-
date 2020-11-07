@@ -21,7 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="003823ea-dc1a-42b0-af21-28f7e4a99cf4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/LeetCode/Ten/Ten.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/out/production/LeetCode/Ten/Ten.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/Fourteen/NinetySeven.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/Fourteen/NinetySeven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/Three/TwentySeven.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/Three/TwentySeven.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -349,7 +350,7 @@
       <workItem from="1604365864325" duration="2804000" />
       <workItem from="1604406930925" duration="18658000" />
       <workItem from="1604537142955" duration="12664000" />
-      <workItem from="1604710084900" duration="4163000" />
+      <workItem from="1604710084900" duration="7658000" />
     </task>
     <servers />
   </component>
@@ -737,16 +738,6 @@
           <url>file://$PROJECT_DIR$/LeetCode/src/Fifteen/Ninety.java</url>
           <line>23</line>
           <option name="timeStamp" value="120" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/LeetCode/src/Three/TwentySeven.java</url>
-          <line>37</line>
-          <option name="timeStamp" value="121" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/LeetCode/src/Fourteen/NinetySeven.java</url>
-          <line>39</line>
-          <option name="timeStamp" value="122" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
