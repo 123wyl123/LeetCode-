@@ -21,8 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="003823ea-dc1a-42b0-af21-28f7e4a99cf4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/LeetCode/One/TwetyTwo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/One/TwetyTwo.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -350,7 +348,7 @@
       <workItem from="1604365864325" duration="2804000" />
       <workItem from="1604406930925" duration="18658000" />
       <workItem from="1604537142955" duration="12664000" />
-      <workItem from="1604710084900" duration="10581000" />
+      <workItem from="1604710084900" duration="12559000" />
     </task>
     <servers />
   </component>
