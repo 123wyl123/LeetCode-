@@ -10,7 +10,7 @@ public class SixtySix {
         a = new LinkedList<>();
         if (root==null)
         {
-return a;
+            return a;
         }
 
         while (root.left!=null||root.right!=null)
