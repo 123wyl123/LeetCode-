@@ -31,7 +31,5 @@ public class TwentyTwo {
         }
         return arr1;
     }
-
-
 }
 
