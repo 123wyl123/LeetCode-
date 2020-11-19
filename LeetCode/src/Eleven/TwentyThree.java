@@ -17,9 +17,13 @@ class TreeNode {
 
 
 public class TwentyThree {
+
     int max =0;
     TreeNode a ;
     public TreeNode lcaDeepestLeaves(TreeNode root) {
+
+
+
         a = null;
         if (root==null)
         {
@@ -69,9 +73,6 @@ public class TwentyThree {
 
         }
         return null;
-
     }
-
-
-
+ 
 }
