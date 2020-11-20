@@ -6,11 +6,7 @@ public class ZeroFourZeroEight {
     }
    TreeNode dfs(TreeNode root ,TreeNode p , TreeNode q)
    {
-       if (root==null)
-       {
-           return null;
-       }
-       if (root==p||root==q)
+       if (root==null||root==p||root==q)
        {
            return root;
        }
@@ -21,7 +17,7 @@ public class ZeroFourZeroEight {
           return null;
       }else if (left!=null&&right!=null)
       {
-          return root;
+           return root;
       }
        return left==null?right:left;
    }
