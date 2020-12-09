@@ -5,8 +5,11 @@ import java.util.LinkedList;
 import java.util.List;
 
 public class FourtyTwo {
+
+
         LinkedList<Integer> aas;
     public List<Integer> splitIntoFibonacci(String S) {
+
         aas = new LinkedList<>();
         char[] chars = S.toCharArray();
         dfs(chars,0,chars.length,new ArrayList<Integer>());
@@ -63,6 +66,8 @@ public class FourtyTwo {
     }
 
     public static void main(String[] args) {
+
         new FourtyTwo().splitIntoFibonacci("0123");
     }
+
 }
