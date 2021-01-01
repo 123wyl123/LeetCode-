@@ -8,8 +8,7 @@ public class ThirtyFive {
         {
             return 0;
         }
-        Arrays.sort(intervals,(int[] o1, int[] o2) -> o1[1]==o2[1]?o1[1]-o2[1]:o1[0]-o2[0]
-        );
+        Arrays.sort(intervals,(int[] o1, int[] o2) -> o1[0]==o2[0]?o1[1]-o2[1]:o1[0]-o2[0]);
         for (int[] interval : intervals) {
             System.out.println(interval[0]+"->"+interval[1]);
         }
@@ -34,7 +33,7 @@ public class ThirtyFive {
 
     public static void main(String[] args) {
       int a[][] = { {1,2},{2,3}, {3,4}, {1,3}};
-      new ThirtyFive().eraseOverlapIntervals(a);
+      new ThirtyFive().eraseOverlapIntervals1(a);
     }
 
     public int eraseOverlapIntervals1(int[][] intervals) {
