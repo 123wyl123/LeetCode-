@@ -21,9 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="003823ea-dc1a-42b0-af21-28f7e4a99cf4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/LeetCode/Four/ThirtyFive.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/out/production/LeetCode/Four/ThirtyFive.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/out/production/LeetCode/Three/Thirty.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/out/production/LeetCode/Three/Thirty.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/Four/ThirtyFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/Four/ThirtyFive.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,27 +66,15 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/flash_netty/flash-netty-- (1)" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/flash_netty/flash-netty-- (4)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.14550781" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="configurable.group.other" />
   </component>
-  <component name="RunManager" selected="Application.Five">
-    <configuration name="EightyEight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="One.EightyEight" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="One.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.NinetyNine">
     <configuration name="Five" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Six.Five" />
       <module name="LeetCode" />
@@ -116,12 +101,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Thirty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Three.Thirty" />
+    <configuration name="NinetyNine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Three.NinetyNine" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Three.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Thirty (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Eight.Thirty" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Eight.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,19 +141,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.EightyEight" />
-      <item itemvalue="Application.Thirty" />
       <item itemvalue="Application.FourtySix" />
       <item itemvalue="Application.ThirtyFive (1)" />
       <item itemvalue="Application.Five" />
+      <item itemvalue="Application.Thirty (1)" />
+      <item itemvalue="Application.NinetyNine" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NinetyNine" />
+        <item itemvalue="Application.Thirty (1)" />
         <item itemvalue="Application.Five" />
         <item itemvalue="Application.ThirtyFive (1)" />
         <item itemvalue="Application.FourtySix" />
-        <item itemvalue="Application.Thirty" />
-        <item itemvalue="Application.EightyEight" />
       </list>
     </recent_temporary>
   </component>
@@ -395,6 +393,9 @@
       <workItem from="1609289622456" duration="4123000" />
       <workItem from="1609376374889" duration="1061000" />
       <workItem from="1609471164308" duration="751000" />
+      <workItem from="1609721009449" duration="2684000" />
+      <workItem from="1609807854199" duration="2072000" />
+      <workItem from="1609894407694" duration="9835000" />
     </task>
     <servers />
   </component>
@@ -433,56 +434,56 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="420" height="466" key="DebuggerActiveHint/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1603092994922" />
-    <state x="1382" y="484" key="FileChooserDialogImpl" timestamp="1609242645330">
+    <state x="1382" y="484" key="FileChooserDialogImpl" timestamp="1609724421731">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1382" y="484" key="FileChooserDialogImpl/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1609242645330" />
-    <state width="1478" height="225" key="GridCell.Tab.0.bottom" timestamp="1609471918074">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="1382" y="484" key="FileChooserDialogImpl/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1609724421731" />
+    <state width="1514" height="193" key="GridCell.Tab.0.bottom" timestamp="1609921467227">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1478" height="179" key="GridCell.Tab.0.bottom/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1609382763157" />
+    <state width="1514" height="193" key="GridCell.Tab.0.bottom/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1609921467227" />
     <state width="1478" height="225" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609471918074" />
     <state width="1478" height="179" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1608554407462" />
-    <state width="1478" height="225" key="GridCell.Tab.0.center" timestamp="1609471918074">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1514" height="193" key="GridCell.Tab.0.center" timestamp="1609921467227">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1478" height="179" key="GridCell.Tab.0.center/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1609382763157" />
+    <state width="1514" height="193" key="GridCell.Tab.0.center/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1609921467227" />
     <state width="1478" height="225" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1609471918074" />
     <state width="1478" height="179" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1608554407462" />
-    <state width="1478" height="225" key="GridCell.Tab.0.left" timestamp="1609471918074">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1514" height="193" key="GridCell.Tab.0.left" timestamp="1609921467227">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1478" height="179" key="GridCell.Tab.0.left/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1609382763157" />
+    <state width="1514" height="193" key="GridCell.Tab.0.left/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1609921467227" />
     <state width="1478" height="225" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1609471918074" />
     <state width="1478" height="179" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1608554407462" />
-    <state width="1478" height="225" key="GridCell.Tab.0.right" timestamp="1609471918074">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1514" height="193" key="GridCell.Tab.0.right" timestamp="1609921467227">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1478" height="179" key="GridCell.Tab.0.right/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1609382763157" />
+    <state width="1514" height="193" key="GridCell.Tab.0.right/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1609921467227" />
     <state width="1478" height="225" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1609471918074" />
     <state width="1478" height="179" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1608554407462" />
-    <state width="1478" height="136" key="GridCell.Tab.1.bottom" timestamp="1609471918069">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1514" height="193" key="GridCell.Tab.1.bottom" timestamp="1609921467227">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1478" height="179" key="GridCell.Tab.1.bottom/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1609382763158" />
+    <state width="1514" height="193" key="GridCell.Tab.1.bottom/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1609921467227" />
     <state width="1478" height="136" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609471918069" />
     <state width="1478" height="179" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1608554407462" />
-    <state width="1478" height="136" key="GridCell.Tab.1.center" timestamp="1609471918069">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1514" height="193" key="GridCell.Tab.1.center" timestamp="1609921467227">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1478" height="179" key="GridCell.Tab.1.center/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1609382763157" />
+    <state width="1514" height="193" key="GridCell.Tab.1.center/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1609921467227" />
     <state width="1478" height="136" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1609471918069" />
     <state width="1478" height="179" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1608554407462" />
-    <state width="1478" height="136" key="GridCell.Tab.1.left" timestamp="1609471918069">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1514" height="193" key="GridCell.Tab.1.left" timestamp="1609921467227">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1478" height="179" key="GridCell.Tab.1.left/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1609382763157" />
+    <state width="1514" height="193" key="GridCell.Tab.1.left/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1609921467227" />
     <state width="1478" height="136" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1609471918069" />
     <state width="1478" height="179" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1608554407462" />
-    <state width="1478" height="136" key="GridCell.Tab.1.right" timestamp="1609471918069">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1514" height="193" key="GridCell.Tab.1.right" timestamp="1609921467227">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1478" height="179" key="GridCell.Tab.1.right/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1609382763158" />
+    <state width="1514" height="193" key="GridCell.Tab.1.right/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1609921467227" />
     <state width="1478" height="136" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1609471918069" />
     <state width="1478" height="179" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1608554407462" />
     <state x="1555" y="493" key="RollbackChangesDialog" timestamp="1607579279609">
@@ -513,10 +514,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="593" y="76" key="new project wizard/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1607999013000" />
-    <state x="449" y="449" key="run.anything.popup" timestamp="1602897494121">
+    <state x="449" y="449" key="run.anything.popup" timestamp="1609808128211">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="449" y="449" key="run.anything.popup/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1602897494121" />
+    <state x="449" y="449" key="run.anything.popup/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1609808128211" />
     <state x="521" y="621" width="672" height="160" key="search.everywhere.popup" timestamp="1607649527448">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -950,6 +951,11 @@
           <line>47</line>
           <option name="timeStamp" value="204" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/src/Three/NinetyNine.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <pin-to-top-manager>
@@ -976,6 +982,9 @@
     </SUITE>
     <SUITE FILE_PATH="coverage/LeetCode$Four.ic" NAME="Four Coverage Results" MODIFIED="1601179001462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>TwoZeroEigth.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/LeetCode$NinetyNine.ic" NAME="NinetyNine Coverage Results" MODIFIED="1609901086202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Three.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/LeetCode$TwentyFive.ic" NAME="TwentyFive Coverage Results" MODIFIED="1600396116739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Zero.*</FILTER>
