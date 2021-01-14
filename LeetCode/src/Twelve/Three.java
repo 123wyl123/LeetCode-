@@ -19,7 +19,6 @@ public class Three {
         }
         Node aaa[] = new Node[n];
         int size = beforeItems.size();
-
         for (int i = 0; i <n ; i++) {
             aaa[i] = new Node(i,group[i],0);
         }
@@ -38,15 +37,11 @@ public class Three {
         {
             int size1 = i;
             Set<Integer> integers1 = integerLinkedListHashMap.keySet();
-
             for (Integer integer : integers1) {
-
-
                 flag = true;
                 PriorityQueue<Node> nodes = new PriorityQueue<>(new Comparator<Node>() {
                     @Override
                     public int compare(Node o1, Node o2) {
-
                         return o1.tete - o2.tete;
                     }
                 });
@@ -57,13 +52,10 @@ public class Three {
                     }
                     nodes.add(aaa[integer1]);
                 }
-
-
                 LinkedList<Integer> temp = new LinkedList<>();
                 while (!nodes.isEmpty())
                 {
                     Node poll = nodes.poll();
-
                     if (poll.tete!=0)
                     {
                         for (Integer integer1 : temp) {
@@ -76,7 +68,6 @@ public class Three {
                     }
                     for (Integer integer1 : poll.integers) {
                         aaa[integer1].tete--;
-
                     }
                     temp.addLast(poll.value);
                 }
@@ -111,20 +102,15 @@ public class Three {
                         }
                         flal[integer1]=true;
                     }
-
                 }
             }
-
             }
             if (size1==i)
             {
                 return new int[]{};
             }
         }
-
-
 return a;
-
     }
     class Node
     {
@@ -136,8 +122,6 @@ return a;
         {
             this.value = a;
             this.group=b;
-
         }
     }
-
 }
