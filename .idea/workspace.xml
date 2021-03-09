@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="003823ea-dc1a-42b0-af21-28f7e4a99cf4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/One/ThirtyTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/One/ThirtyTwo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +75,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="configurable.group.other" />
   </component>
-  <component name="RunManager" selected="Application.FiftyNine">
+  <component name="RunManager" selected="Application.FourtySeven">
     <configuration name="FiftyFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Three.FiftyFour" />
       <module name="LeetCode" />
@@ -101,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SixtySeven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Five.SixtySeven" />
+    <configuration name="FourtySeven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ten.FourtySeven" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Five.*" />
+          <option name="PATTERN" value="Ten.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,19 +142,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SixtySeven" />
       <item itemvalue="Application.Three (1)" />
       <item itemvalue="Application.FiftyFour" />
       <item itemvalue="Application.Three" />
       <item itemvalue="Application.FiftyNine" />
+      <item itemvalue="Application.FourtySeven" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FourtySeven" />
         <item itemvalue="Application.FiftyNine" />
         <item itemvalue="Application.Three" />
         <item itemvalue="Application.FiftyFour" />
         <item itemvalue="Application.Three (1)" />
-        <item itemvalue="Application.SixtySeven" />
       </list>
     </recent_temporary>
   </component>
@@ -415,7 +416,9 @@
       <workItem from="1614816733841" duration="917000" />
       <workItem from="1614904819639" duration="1855000" />
       <workItem from="1614991697849" duration="2062000" />
-      <workItem from="1615079402921" duration="431000" />
+      <workItem from="1615079402921" duration="1102000" />
+      <workItem from="1615163842820" duration="2198000" />
+      <workItem from="1615249694282" duration="774000" />
     </task>
     <servers />
   </component>
@@ -962,9 +965,9 @@
           <option name="timeStamp" value="208" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/LeetCode/src/Zero/FiftyNine.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="213" />
+          <url>file://$PROJECT_DIR$/LeetCode/src/Ten/FourtySeven.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="209" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
