@@ -139,10 +139,5 @@ public class TwentyFour {
             return (int)Long.parseLong(a.peek());
         }
         }
-
-    public static void main(String[] args) {
-        int calculate = new TwentyFour().calculate("2-4-(8+2-6+(8+4-(1)+8-10))");
-        System.out.println(calculate);
-    }
     }
 
