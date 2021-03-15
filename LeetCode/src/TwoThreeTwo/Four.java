@@ -6,6 +6,7 @@ import java.util.Stack;
 
 public class Four {
     public int maximumScore(int[] nums, int k) {
+
         int aaa[] = new int[nums.length];
         int bbb[] = new int[nums.length];
         Deque<Integer> a = new LinkedList<>();
