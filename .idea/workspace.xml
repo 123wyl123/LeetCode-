@@ -74,7 +74,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="configurable.group.other" />
   </component>
-  <component name="RunManager" selected="Application.NinetyTwo">
+  <component name="RunManager" selected="Application.NinetyOne">
     <configuration name="Fifteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="One.Fifteen" />
       <module name="LeetCode" />
@@ -114,6 +114,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NinetyOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="One.NinetyOne" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="One.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NinetyTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Zero.NinetyTwo" />
       <module name="LeetCode" />
@@ -127,33 +140,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoThreeTwo.Two" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TwoThreeTwo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.Two" />
       <item itemvalue="Application.Four" />
       <item itemvalue="Application.FiftyFour" />
       <item itemvalue="Application.Fifteen" />
       <item itemvalue="Application.NinetyTwo" />
+      <item itemvalue="Application.NinetyOne" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NinetyOne" />
         <item itemvalue="Application.NinetyTwo" />
         <item itemvalue="Application.Fifteen" />
         <item itemvalue="Application.FiftyFour" />
         <item itemvalue="Application.Four" />
-        <item itemvalue="Application.Two" />
       </list>
     </recent_temporary>
   </component>
@@ -424,7 +424,8 @@
       <workItem from="1615594170255" duration="16180000" />
       <workItem from="1615765737546" duration="3540000" />
       <workItem from="1615956177996" duration="17380000" />
-      <workItem from="1616290751312" duration="805000" />
+      <workItem from="1616290751312" duration="1421000" />
+      <workItem from="1616373650366" duration="373000" />
     </task>
     <servers />
   </component>
