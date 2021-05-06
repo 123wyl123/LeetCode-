@@ -7,13 +7,13 @@ public class Two {
         dfs(s.toCharArray(),s.length(),0,0);
         return flag;
     }
-    void dfs(char[] a, int n, int l,int pre)
+    void dfs(char[] a, int n, int l,long pre)
     {
         if (flag)
     {
         return;
     }
-            int temp =0;
+            long temp =0;
         for (int i = l; i <n ; i++) {
             if (l!=0)
             {   temp = temp*10+a[i]-'0';
