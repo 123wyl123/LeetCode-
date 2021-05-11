@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class ThirtyTwo {
     public static void main(String[] args) {
-      
+
         Scanner scanner = new Scanner(System.in);
         int i = scanner.nextInt();
         long sum =1;
