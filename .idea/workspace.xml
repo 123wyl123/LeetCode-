@@ -20,8 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="003823ea-dc1a-42b0-af21-28f7e4a99cf4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/out/production/LeetCode/Twelve/SixtyNIne.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/Twelve/SixtyNIne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,13 +74,13 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="configurable.group.other" />
   </component>
-  <component name="RunManager" selected="Application.SixtyNIne">
-    <configuration name="EightyFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Acwing.ThirtyFour.EightyFive" />
+  <component name="RunManager" selected="Application.Four">
+    <configuration name="Four" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Acwing.twelfthBlueBridge.Four" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Acwing.ThirtyFour.*" />
+          <option name="PATTERN" value="Acwing.twelfthBlueBridge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,38 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NinetyEight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Acwing.Eight.NinetyEight" />
+    <configuration name="One" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Acwing.twelfthBlueBridge.One" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Acwing.Eight.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NinetyNine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Acwing.ThirtyFour.NinetyNine" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Acwing.ThirtyFour.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NinetyThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Acwing.ThirtyFour.NinetyThree" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Acwing.ThirtyFour.*" />
+          <option name="PATTERN" value="Acwing.twelfthBlueBridge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,20 +114,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Three" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Acwing.twelfthBlueBridge.Three" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Acwing.twelfthBlueBridge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Acwing.ThirtyFive.Two" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Acwing.ThirtyFive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.NinetyThree" />
-      <item itemvalue="Application.EightyFive" />
-      <item itemvalue="Application.NinetyEight" />
-      <item itemvalue="Application.NinetyNine" />
       <item itemvalue="Application.SixtyNIne" />
+      <item itemvalue="Application.Two" />
+      <item itemvalue="Application.One" />
+      <item itemvalue="Application.Three" />
+      <item itemvalue="Application.Four" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Four" />
+        <item itemvalue="Application.Three" />
+        <item itemvalue="Application.One" />
+        <item itemvalue="Application.Two" />
         <item itemvalue="Application.SixtyNIne" />
-        <item itemvalue="Application.NinetyNine" />
-        <item itemvalue="Application.NinetyEight" />
-        <item itemvalue="Application.EightyFive" />
-        <item itemvalue="Application.NinetyThree" />
       </list>
     </recent_temporary>
   </component>
@@ -460,7 +458,8 @@
       <workItem from="1620522969225" duration="12785000" />
       <workItem from="1620654974945" duration="14476000" />
       <workItem from="1620811948509" duration="9028000" />
-      <workItem from="1620866927808" duration="2364000" />
+      <workItem from="1620866927808" duration="2437000" />
+      <workItem from="1620904485418" duration="10932000" />
     </task>
     <servers />
   </component>
@@ -492,54 +491,54 @@
     </state>
     <state x="1382" y="484" key="FileChooserDialogImpl/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1615357797913" />
     <state x="829" y="285" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1617859694107" />
-    <state width="1478" height="282" key="GridCell.Tab.0.bottom" timestamp="1620868898889">
+    <state width="2041" height="482" key="GridCell.Tab.0.bottom" timestamp="1620915229090">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1476" height="240" key="GridCell.Tab.0.bottom/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1617329778891" />
     <state width="1478" height="296" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1618737880557" />
-    <state width="1478" height="282" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1620868898889" />
-    <state width="1478" height="282" key="GridCell.Tab.0.center" timestamp="1620868898889">
+    <state width="2041" height="482" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1620915229090" />
+    <state width="2041" height="482" key="GridCell.Tab.0.center" timestamp="1620915229090">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1476" height="240" key="GridCell.Tab.0.center/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1617329778891" />
     <state width="1478" height="296" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1618737880557" />
-    <state width="1478" height="282" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1620868898889" />
-    <state width="1478" height="282" key="GridCell.Tab.0.left" timestamp="1620868898889">
+    <state width="2041" height="482" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1620915229090" />
+    <state width="2041" height="482" key="GridCell.Tab.0.left" timestamp="1620915229090">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1476" height="240" key="GridCell.Tab.0.left/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1617329778891" />
     <state width="1478" height="296" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1618737880557" />
-    <state width="1478" height="282" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1620868898889" />
-    <state width="1478" height="282" key="GridCell.Tab.0.right" timestamp="1620868898889">
+    <state width="2041" height="482" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1620915229090" />
+    <state width="2041" height="482" key="GridCell.Tab.0.right" timestamp="1620915229090">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1476" height="240" key="GridCell.Tab.0.right/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1617329778891" />
     <state width="1478" height="296" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1618737880557" />
-    <state width="1478" height="282" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1620868898889" />
-    <state width="1478" height="282" key="GridCell.Tab.1.bottom" timestamp="1620868899097">
+    <state width="2041" height="482" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1620915229090" />
+    <state width="2041" height="482" key="GridCell.Tab.1.bottom" timestamp="1620915230698">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1476" height="240" key="GridCell.Tab.1.bottom/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1617329778891" />
     <state width="1478" height="296" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1618737880558" />
-    <state width="1478" height="282" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1620868899097" />
-    <state width="1478" height="282" key="GridCell.Tab.1.center" timestamp="1620868899097">
+    <state width="2041" height="482" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1620915230698" />
+    <state width="2041" height="482" key="GridCell.Tab.1.center" timestamp="1620915230698">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1476" height="240" key="GridCell.Tab.1.center/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1617329778891" />
     <state width="1478" height="296" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1618737880557" />
-    <state width="1478" height="282" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1620868899097" />
-    <state width="1478" height="282" key="GridCell.Tab.1.left" timestamp="1620868899097">
+    <state width="2041" height="482" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1620915230698" />
+    <state width="2041" height="482" key="GridCell.Tab.1.left" timestamp="1620915230698">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1476" height="240" key="GridCell.Tab.1.left/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1617329778891" />
     <state width="1478" height="296" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1618737880557" />
-    <state width="1478" height="282" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1620868899097" />
-    <state width="1478" height="282" key="GridCell.Tab.1.right" timestamp="1620868899097">
+    <state width="2041" height="482" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1620915230698" />
+    <state width="2041" height="482" key="GridCell.Tab.1.right" timestamp="1620915230698">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1476" height="240" key="GridCell.Tab.1.right/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1617329778891" />
     <state width="1478" height="296" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1618737880558" />
-    <state width="1478" height="282" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1620868899097" />
+    <state width="2041" height="482" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1620915230698" />
     <state x="593" y="76" key="new project wizard" timestamp="1615357808866">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -1112,6 +1111,16 @@
           <line>35</line>
           <option name="timeStamp" value="260" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/src/Acwing/ThirtyFive/Two.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="261" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/src/Acwing/twelfthBlueBridge/One.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="262" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <pin-to-top-manager>
@@ -1125,6 +1134,14 @@
       <configuration name="Application">
         <watch expression="(long)Math.abs((long)dividend)" language="JAVA" />
         <watch expression="nums[i])*((long)(sum[i]-sum[b[i]])+nums[i])" language="JAVA" />
+        <watch expression="stringBooleanHashMap" language="JAVA" />
+        <watch expression="i1/1000" language="JAVA" />
+        <watch expression="i1%1000/100" language="JAVA" />
+        <watch expression="i%10-1" language="JAVA" />
+        <watch expression="b[i][1]" language="JAVA" />
+        <watch expression="b[i][1]-1" language="JAVA" />
+        <watch expression="integerPriorityQueueHashMap.containsKey(b[i][1]-1)" language="JAVA" />
+        <watch expression="integerPriorityQueueHashMap.containsKey(0)" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
