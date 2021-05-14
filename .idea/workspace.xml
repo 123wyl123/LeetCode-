@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="003823ea-dc1a-42b0-af21-28f7e4a99cf4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="003823ea-dc1a-42b0-af21-28f7e4a99cf4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +72,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="configurable.group.other" />
   </component>
-  <component name="RunManager" selected="Application.Four">
+  <component name="RunManager" selected="Application.Twelve">
     <configuration name="Four" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Acwing.twelfthBlueBridge.Four" />
       <module name="LeetCode" />
@@ -101,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SixtyNIne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Twelve.SixtyNIne" />
+    <configuration name="Three" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Acwing.twelfthBlueBridge.Three" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Twelve.*" />
+          <option name="PATTERN" value="Acwing.twelfthBlueBridge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Three" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Acwing.twelfthBlueBridge.Three" />
+    <configuration name="Twelve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zero.Twelve" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Acwing.twelfthBlueBridge.*" />
+          <option name="PATTERN" value="Zero.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,19 +139,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SixtyNIne" />
       <item itemvalue="Application.Two" />
       <item itemvalue="Application.One" />
       <item itemvalue="Application.Three" />
       <item itemvalue="Application.Four" />
+      <item itemvalue="Application.Twelve" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Twelve" />
         <item itemvalue="Application.Four" />
         <item itemvalue="Application.Three" />
         <item itemvalue="Application.One" />
         <item itemvalue="Application.Two" />
-        <item itemvalue="Application.SixtyNIne" />
       </list>
     </recent_temporary>
   </component>
@@ -459,7 +457,7 @@
       <workItem from="1620654974945" duration="14476000" />
       <workItem from="1620811948509" duration="9028000" />
       <workItem from="1620866927808" duration="2437000" />
-      <workItem from="1620904485418" duration="10932000" />
+      <workItem from="1620904485418" duration="12870000" />
     </task>
     <servers />
   </component>
@@ -491,54 +489,54 @@
     </state>
     <state x="1382" y="484" key="FileChooserDialogImpl/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1615357797913" />
     <state x="829" y="285" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1617859694107" />
-    <state width="2041" height="482" key="GridCell.Tab.0.bottom" timestamp="1620915229090">
+    <state width="2041" height="340" key="GridCell.Tab.0.bottom" timestamp="1620915855154">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1476" height="240" key="GridCell.Tab.0.bottom/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1617329778891" />
     <state width="1478" height="296" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1618737880557" />
-    <state width="2041" height="482" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1620915229090" />
-    <state width="2041" height="482" key="GridCell.Tab.0.center" timestamp="1620915229090">
+    <state width="2041" height="340" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1620915855154" />
+    <state width="2041" height="340" key="GridCell.Tab.0.center" timestamp="1620915855154">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1476" height="240" key="GridCell.Tab.0.center/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1617329778891" />
     <state width="1478" height="296" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1618737880557" />
-    <state width="2041" height="482" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1620915229090" />
-    <state width="2041" height="482" key="GridCell.Tab.0.left" timestamp="1620915229090">
+    <state width="2041" height="340" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1620915855154" />
+    <state width="2041" height="340" key="GridCell.Tab.0.left" timestamp="1620915855154">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1476" height="240" key="GridCell.Tab.0.left/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1617329778891" />
     <state width="1478" height="296" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1618737880557" />
-    <state width="2041" height="482" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1620915229090" />
-    <state width="2041" height="482" key="GridCell.Tab.0.right" timestamp="1620915229090">
+    <state width="2041" height="340" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1620915855154" />
+    <state width="2041" height="340" key="GridCell.Tab.0.right" timestamp="1620915855154">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1476" height="240" key="GridCell.Tab.0.right/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1617329778891" />
     <state width="1478" height="296" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1618737880557" />
-    <state width="2041" height="482" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1620915229090" />
-    <state width="2041" height="482" key="GridCell.Tab.1.bottom" timestamp="1620915230698">
+    <state width="2041" height="340" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1620915855154" />
+    <state width="2041" height="482" key="GridCell.Tab.1.bottom" timestamp="1620915843516">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1476" height="240" key="GridCell.Tab.1.bottom/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1617329778891" />
     <state width="1478" height="296" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1618737880558" />
-    <state width="2041" height="482" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1620915230698" />
-    <state width="2041" height="482" key="GridCell.Tab.1.center" timestamp="1620915230698">
+    <state width="2041" height="482" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1620915843516" />
+    <state width="2041" height="482" key="GridCell.Tab.1.center" timestamp="1620915843516">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1476" height="240" key="GridCell.Tab.1.center/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1617329778891" />
     <state width="1478" height="296" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1618737880557" />
-    <state width="2041" height="482" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1620915230698" />
-    <state width="2041" height="482" key="GridCell.Tab.1.left" timestamp="1620915230698">
+    <state width="2041" height="482" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1620915843516" />
+    <state width="2041" height="482" key="GridCell.Tab.1.left" timestamp="1620915843515">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1476" height="240" key="GridCell.Tab.1.left/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1617329778891" />
     <state width="1478" height="296" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1618737880557" />
-    <state width="2041" height="482" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1620915230698" />
-    <state width="2041" height="482" key="GridCell.Tab.1.right" timestamp="1620915230698">
+    <state width="2041" height="482" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1620915843515" />
+    <state width="2041" height="482" key="GridCell.Tab.1.right" timestamp="1620915843516">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1476" height="240" key="GridCell.Tab.1.right/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1617329778891" />
     <state width="1478" height="296" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1618737880558" />
-    <state width="2041" height="482" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1620915230698" />
+    <state width="2041" height="482" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1620915843516" />
     <state x="593" y="76" key="new project wizard" timestamp="1615357808866">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -1120,6 +1118,11 @@
           <url>file://$PROJECT_DIR$/LeetCode/src/Acwing/twelfthBlueBridge/One.java</url>
           <line>9</line>
           <option name="timeStamp" value="262" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/src/Zero/Twelve.java</url>
+          <line>101</line>
+          <option name="timeStamp" value="278" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
