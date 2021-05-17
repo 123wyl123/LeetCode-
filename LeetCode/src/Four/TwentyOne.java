@@ -43,7 +43,8 @@ class NumTrie {
 
 public class TwentyOne {
     public int findMaximumXOR(int[] nums) {
-        if (nums == null || nums.length == 0) {
+        if (nums==null||nums.length==0||nums.length==1)
+        {
             return 0;
         }
 

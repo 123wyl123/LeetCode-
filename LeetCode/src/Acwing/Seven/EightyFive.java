@@ -13,7 +13,7 @@ public class EightyFive {
         int a[]=new int[integer];
         String s = bufferedReader.readLine();
         String[] s1 = s.split(" ");
-        for (int i = 0; i <s1.length ; i++) {
+        for (int i = 0; i <integer ; i++) {
             a[i]=Integer.valueOf(s1[i]);
         }
         fast(a,0,a.length-1);
@@ -39,7 +39,7 @@ public class EightyFive {
         }
         int i =left;
         int j=right;
-        int temp =i+(int)(Math.random()*j);
+        int temp =i+(int)(Math.random()*(j-i));
         int tt = a[temp];
         a[temp]=a[i];
         a[i]=tt;
