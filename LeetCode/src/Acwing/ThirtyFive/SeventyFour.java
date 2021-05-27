@@ -27,6 +27,7 @@ public class SeventyFour {
                 zheng=fu;
                 fu=tmep;
                 fu++;
+                b++;
             }else
             {
                 zheng =0;
@@ -34,6 +35,6 @@ public class SeventyFour {
             }
         }
 
-        System.out.println(a+" "+b);
+        System.out.println(b+" "+a);
     }
 }
