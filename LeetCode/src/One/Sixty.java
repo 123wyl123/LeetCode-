@@ -13,7 +13,7 @@ public class Sixty {
         while (headB!=null)
         {
             if (listNodeHashMap.containsKey(headB))
-            { 
+            {
                 return headB;
             }
             headB=headB.next;

@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="003823ea-dc1a-42b0-af21-28f7e4a99cf4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/One/Sixty.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/One/Sixty.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +75,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
-  <component name="RunManager" selected="Application.FourtyFour">
+  <component name="RunManager" selected="Application.TwentyFour">
     <configuration name="FourtyFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Seventeen.FourtyFour" />
       <module name="LeetCode" />
@@ -101,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThirtyOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Two.ThirtyOne" />
+    <configuration name="Three" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoFourThree.Three" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Two.*" />
+          <option name="PATTERN" value="TwoFourThree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Three" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoFourThree.Three" />
+    <configuration name="TwentyFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Acwing.ThirtySix.TwentyFour" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TwoFourThree.*" />
+          <option name="PATTERN" value="Acwing.ThirtySix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,19 +142,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ThirtyOne" />
       <item itemvalue="Application.One" />
       <item itemvalue="Application.Two" />
       <item itemvalue="Application.Three" />
       <item itemvalue="Application.FourtyFour" />
+      <item itemvalue="Application.TwentyFour" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TwentyFour" />
         <item itemvalue="Application.FourtyFour" />
         <item itemvalue="Application.Three" />
         <item itemvalue="Application.Two" />
         <item itemvalue="Application.One" />
-        <item itemvalue="Application.ThirtyOne" />
       </list>
     </recent_temporary>
   </component>
@@ -480,7 +481,7 @@
       <workItem from="1622421553279" duration="1300000" />
       <workItem from="1622508227759" duration="4000000" />
       <workItem from="1622681374201" duration="3754000" />
-      <workItem from="1622766950168" duration="1372000" />
+      <workItem from="1622766950168" duration="2046000" />
     </task>
     <servers />
   </component>
