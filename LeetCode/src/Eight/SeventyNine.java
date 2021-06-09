@@ -28,4 +28,10 @@ public class SeventyNine {
         }
         return sum;
     }
+
+    public static void main(String[] args) {
+        int a[]={2,2};
+        int b[]={2,3};
+        new SeventyNine().profitableSchemes(5,3,a,b);
+    }
 }
