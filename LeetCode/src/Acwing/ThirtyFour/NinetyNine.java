@@ -20,7 +20,11 @@ public class NinetyNine {
         }
         int dp[][]=new int[m][m];
 
-        for (int i = 0; i <m ; i++) {
+        for (int i = 1; i <m ; i++) {
+            if (i==3)
+            {
+                System.out.println();
+            }
             for (int j = 0; j <i ; j++) {
                 for (int l = 0; l <=i; l++) {
                     if (l==0)
@@ -41,12 +45,20 @@ public class NinetyNine {
             }
         }
         int max =0;
+//        for (int i = 0; i <m ; i++) {
+//            for (int j = 0; j <m ; j++) {
+//                if(j>=m-k-2)
+//                {
+//                    max =Math.max(dp[i][j],max);
+//                }
+//
+//            }
+//        }
         for (int i = 0; i <m ; i++) {
-            for (int j = 0; j <m ; j++) {
-                if(j>=m-k-2)
-                {
-                    max =Math.max(dp[i][j],max);
-                }
+            for (int j = 0; j <k ; j++) {
+
+                max =Math.max(dp[i][j],max);
+
 
             }
         }

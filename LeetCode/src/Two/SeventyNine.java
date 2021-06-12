@@ -23,6 +23,8 @@ public class SeventyNine {
 
     }
 
+
+
     public static void main(String[] args) {
         new SeventyNine().numSquares(12);
     }
