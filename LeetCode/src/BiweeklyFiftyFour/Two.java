@@ -2,7 +2,7 @@ package BiweeklyFiftyFour;
 
 public class Two {
     public int chalkReplacer(int[] chalk, int k) {
-    long sum =0;
+        long sum =0;
 
         for (int i = 0; i <chalk.length ; i++) {
             sum+=chalk[i];
@@ -11,7 +11,7 @@ public class Two {
                 return i;
             }
         }
-       long k1=(long)k%sum;
+        long k1=(long)k%sum;
         sum=0;
         for (int i = 0; i <chalk.length ; i++) {
             sum+=chalk[i];
@@ -21,6 +21,6 @@ public class Two {
             }
         }
         return 0;
-        }
     }
+}
 

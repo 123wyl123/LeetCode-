@@ -27,14 +27,14 @@ public class Four {
                 dp[i][i][1]=Integer.MAX_VALUE;
             }
         }
-        for (int i = 2; i <expression.length() ; i++) {
-            for (int j = 3; j <expression.length()-i ; j++) {
+        for (int i = 1; i <expression.length() ; i++) {
+            for (int j = 0; j <expression.length()-i ; j++) {
 
                 int temp=0;
-                if (chars[j]=='(')
-                {
-                    temp++;
-                }
+            if (i==expression.length()-1)
+            {
+                System.out.println();
+            }
                 for (int k = j; k <=j+i ; k++) {
                     if (chars[k]=='(')
                     {
@@ -43,25 +43,36 @@ public class Four {
                     {
                         temp--;
                     }
+
                     if (chars[j]=='('&&chars[k]==')'&&temp==0)
                     {
-                        dp[j][k]=dp[i+1][k-1];
-                    }else if (chars[j]=='0'||chars[j]=='1')
+                        dp[j][k]=dp[j+1][k-1];
+                    }else if (chars[j]=='0'||chars[j]=='1'||chars[j]=='(')
                     {
                         if (chars[k]=='|')
                         {
-                            dp[j][i+j][1]=Math.min(dp[j][k-1][0],dp[j][j+i][0]);
-                            dp[j][i+j][1]=Math.min(dp[i][j][1],Math.min(dp[i][k-1][1],dp[i][j][1]));
-                            dp[i][j+i][0]=Math.min(dp[j][k-1][0],dp[i][j][1]);
-                            dp[i][j+i][0]=Math.min(dp[j][k-1][1],dp[i][j][0]);
+                            dp[j][i+j][1]=Math.min(Math.min(dp[j][k-1][1]+dp[k+1][j+i][0],dp[j][k-1][0]+dp[k+1][j+i][1]),dp[j][j+i][1]);
+                            dp[j][j+i][0]=Math.min(Math.min(dp[j][k-1][0]+dp[k+1][j+i][0],dp[j][k-1][1]+dp[k+1][j+i][1]),dp[j][j+i][0]);
+                            dp[j][j+i][1]=Math.min(dp[j][k-1][1]+dp[k+1][j+i][1]+1,dp[j][j+i][1]);
+                            dp[j][j+i][0]=Math.min(Math.min(Math.min(dp[j][k-1][0]+dp[k+1][j+i][0],dp[j][k-1][1]+dp[k+1][j+i][0]),dp[j][k-1][0]+dp[k+1][j+i][1])+1,dp[j][j+i][0]);
 
                         }else if (chars[k]=='&')
                         {
-                            dp[i][j][1]=dp[i][k-1][1]+dp[k+1][j][1];
+                            dp[j][j+i][1]=Math.min(dp[j][k-1][1]+dp[k+1][j+i][1],dp[j][j+i][1]);
+                            dp[j][i+j][1]=Math.min(Math.min(dp[j][k-1][1]+dp[k+1][j+i][0],dp[j][k-1][0]+dp[k+1][j+i][1])+1,dp[j][j+i][1]);
 
-                            dp[i][j][0]=Math.min(dp[i][k-1][1]+dp[i][j][0],dp[i][k-1][0]+dp[i][j][1]);
-                            dp[i][j][0]=Math.min(dp[i][j][0],dp[i][k-1][0]+dp[i][j][0]);
+                            dp[j][i+j][0]=Math.min(Math.min(dp[j][k-1][1]+dp[k+1][i+j][0],dp[j][k-1][0]+dp[k+1][i+j][1]),dp[j][i+j][0]);
+                            dp[j][i+j][0]=Math.min(dp[j][j+i][0],dp[j][k-1][0]+dp[k+1][i+j][0]);
+                            dp[j][j+i][0]=Math.min(Math.min(dp[j][k-1][0]+dp[k+1][j+i][0],dp[j][k-1][1]+dp[k+1][j+i][1])+1,dp[j][j+i][0]);
                         }
+                    }
+                    if (dp[j][j+i][1]<0)
+                    {
+                        dp[j][j+i][1]=Integer.MAX_VALUE;
+                    }
+                    if (dp[j][j+i][0]<0)
+                    {
+                    dp[j][j+i][0]=Integer.MAX_VALUE;
                     }
                 }
             }
@@ -71,6 +82,6 @@ public class Four {
     }
 
     public static void main(String[] args) {
-        new Four().minOperationsToFlip( "1&(0|1)");
+        new Four().minOperationsToFlip( "(0&0)&(0&0&0)");
     }
 }
