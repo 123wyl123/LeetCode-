@@ -9,8 +9,7 @@ public class Four {
                 a[i][j]=a[i-1][j];
             }
             ++a[i][nums[i-1]];
-        }
-
+        } 
         int b[]=new int[queries.length];
         for (int i = 0; i <queries.length ; i++) {
             int start=queries[i][0];
