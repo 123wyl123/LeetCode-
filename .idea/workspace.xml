@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="003823ea-dc1a-42b0-af21-28f7e4a99cf4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +74,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
-  <component name="RunManager" selected="Application.Four">
+  <component name="RunManager" selected="Application.ThirtyEight">
     <configuration name="Four" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TwoFourSix.Four" />
       <module name="LeetCode" />
@@ -89,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NinetyFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Acwing.ThirtySix.NinetyFive" />
+    <configuration name="One" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoFourSix.One" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Acwing.ThirtySix.*" />
+          <option name="PATTERN" value="TwoFourSix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="One" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoFourSix.One" />
+    <configuration name="ThirtyEight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sword.ThirtyEight" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TwoFourSix.*" />
+          <option name="PATTERN" value="Sword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,19 +141,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.NinetyFive" />
       <item itemvalue="Application.One" />
       <item itemvalue="Application.Two" />
       <item itemvalue="Application.Three" />
       <item itemvalue="Application.Four" />
+      <item itemvalue="Application.ThirtyEight" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThirtyEight" />
         <item itemvalue="Application.Four" />
         <item itemvalue="Application.Three" />
         <item itemvalue="Application.Two" />
         <item itemvalue="Application.One" />
-        <item itemvalue="Application.NinetyFive" />
       </list>
     </recent_temporary>
   </component>
@@ -498,7 +497,8 @@
       <workItem from="1624101752463" duration="2770000" />
       <workItem from="1624150797483" duration="10843000" />
       <workItem from="1624235204332" duration="3013000" />
-      <workItem from="1624261918525" duration="2581000" />
+      <workItem from="1624261918525" duration="3562000" />
+      <workItem from="1624322793019" duration="713000" />
     </task>
     <servers />
   </component>
@@ -590,9 +590,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1317" y="392" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1622114882239" />
-    <state x="1078" y="498" key="new project wizard" timestamp="1622099620193">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="1039" y="512" key="new project wizard" timestamp="1624278671502">
+      <screen x="0" y="0" width="2467" height="1440" />
     </state>
+    <state x="1039" y="512" key="new project wizard/-1920.0.1424.864/0.0.2467.1440@0.0.2467.1440" timestamp="1624278671502" />
     <state x="1078" y="498" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1622099620193" />
     <state x="425" y="189" key="run.anything.popup" timestamp="1618537744151">
       <screen x="0" y="0" width="1536" height="824" />
