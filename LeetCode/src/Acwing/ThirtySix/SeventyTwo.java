@@ -10,6 +10,8 @@ public class SeventyTwo {
     public static void main(String[] args) throws Exception{
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
         int T= Integer.valueOf(bufferedReader.readLine());
+
+
         while (T>0)
         {
             T--;
