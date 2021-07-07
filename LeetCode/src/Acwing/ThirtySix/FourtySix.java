@@ -21,12 +21,11 @@ public class FourtySix {
             {
                 a[i]=Integer.valueOf(s1[i]);
             }
-            Arrays.sort(a, new Comparator<Integer>() {
-                @Override
-                public int compare(Integer o1, Integer o2) {
-                    return o2-o1;
-                }
-            });
+            Arrays.sort(a, (Integer a1,Integer b1)->
+                    {
+                        return -1;
+                    }
+            );
             int sum =0;
             for (int i = 0; i <3 ; i++) {
                 if (a[i]>0)
