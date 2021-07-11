@@ -5,6 +5,8 @@ import java.util.Arrays;
 
 public class SeventyFour {
     public int hIndex(int[] citations) {
+
+
         Arrays.sort(citations);
         int temp=0;
         int length = citations.length;
