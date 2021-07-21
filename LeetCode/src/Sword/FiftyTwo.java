@@ -1,5 +1,9 @@
 package Sword;
- class ListNode {
+
+import java.util.HashMap;
+import java.util.Map;
+
+class ListNode {
       int val;
       ListNode next;
       ListNode(int x) {
@@ -57,5 +61,8 @@ public class FiftyTwo {
         }
 
         return headA;
+
+
+
     }
 }
