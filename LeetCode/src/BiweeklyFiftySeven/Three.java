@@ -1,4 +1,4 @@
-package BiweeklyFourtySeven;
+package BiweeklyFiftySeven;
 
 import java.util.LinkedList;
 import java.util.List;
@@ -28,7 +28,6 @@ public class Three {
         for (int i = 1; i <= max; i++)
         {
             a[i]=b[i]+a[i-1];
-
         }
 
         List<List<Long>> linkedLists = new LinkedList<>();

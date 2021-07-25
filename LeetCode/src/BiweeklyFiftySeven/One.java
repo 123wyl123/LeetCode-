@@ -1,4 +1,4 @@
-package BiweeklyFourtySeven;
+package BiweeklyFiftySeven;
 
 import java.util.HashMap;
 
