@@ -4,7 +4,7 @@ public class SeventyOne {
     int a =0;
     public int findSecondMinimumValue(TreeNode root) {
         a=root.val;
-   a=     dfs(root);
+        a=dfs(root);
         return a>root.val?a:-1;
     }
 
