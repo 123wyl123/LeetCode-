@@ -7,11 +7,11 @@ public class Four {
     LinkedList<Integer> integers ;
     public List<Integer> pathInZigZagTree(int label) {
 
-       integers = new LinkedList<>();
-//        if (label==1)
-//        {   integers.addFirst(1);
-//            return integers;
-//        }
+        integers = new LinkedList<>();
+        if (label==1)
+        {   integers.addFirst(1);
+            return integers;
+        }
         int a = 0;
         int sum =0;
         int aa[] = new int [1000];
@@ -37,20 +37,21 @@ public class Four {
     }
     void search(int a[] ,int m,boolean flag,int cen)
     {
-            if (m==1)
-            {
-                integers.addFirst(1);
-                return;
-            }
-            int temp = a[cen]+1;
-            int temp1 = a[cen-1];
-            int kk=temp+temp1-m;
-            integers.addFirst(kk);
-            search(a,kk/2,flag,cen-1);
+        if (m==1)
+        {
+            integers.addFirst(1);
+            return;
+        }
+        int temp = a[cen]+1;
+        int temp1 = a[cen-1];
+        int kk=temp+temp1-m;
+        integers.addFirst(kk);
+        search(a,kk/2,flag,cen-1);
 
     }
 
     public static void main(String[] args) {
-        new Four().pathInZigZagTree(1);
+        new Four().pathInZigZagTree(14);
     }
 }
+

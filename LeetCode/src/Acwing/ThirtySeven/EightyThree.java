@@ -20,13 +20,12 @@ public class EightyThree {
 
         int sum=0;
         for (int i = 1; i <=n/i ; i++) {
- if(n % i == 0) {
+            if(n % i == 0) {
              longs.addLast((long)i);
                 if(i != n / i) longs.addLast(n/i);
             }
         }
-        Collections.sort(longs);
-        if (longs.size()<k)
+        Collections.sort(longs);        if (longs.size()<k)
         {
             System.out.println(-1);
         }else
