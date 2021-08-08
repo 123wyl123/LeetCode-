@@ -1,154 +1,28 @@
 package TwoFiveThree;
 
-import Zero.Twelve;
+import java.util.Comparator;
+import java.util.PriorityQueue;
 
 public class Two {
-    public boolean checkMove(char[][] board, int rMove, int cMove, char color) {
-            board[rMove][cMove]=color;
-            int i=0;
-
-        for ( i = rMove-1; i >=0 ; i--) {
-           if (board[i][cMove]!=color&&board[i][cMove]!='.')
-           {
-               continue;
-           }else if(board[i][cMove]=='.')
-            {
-               break;
-            }else
-           {
-               if (i!=rMove-1)
-               {
-                   return true;
-               }
-               break;
-           }
+    public int minStoneSum(int[] piles, int k) {
+        PriorityQueue<Integer> integers = new PriorityQueue<>(new Comparator<Integer>() {
+            @Override
+            public int compare(Integer o1, Integer o2) {
+                return o2 - o1;
+            }
+        });
+        long sum=0;
+        for (int i = 0; i <piles.length ; i++) {
+            integers.add(piles[i]);
+            sum=sum+(long) piles[i];
         }
-        for (i = rMove+1; i <board.length ; i++) {
-            if (board[i][cMove]!=color&&board[i][cMove]!='.')
-            {
-                continue;
-            }else if(board[i][cMove]=='.')
-            {
-                break;
-            }
 
-            else
-            {
-                if (i!=rMove+1)
-                {        System.out.println(2);
-                    return true;
-                }
-                break;
-            }
+        for (int i = 0; i <k ; i++) {
+            Integer poll = integers.poll();
+          sum=  sum-poll/2;
+          poll=poll-  poll/2;
+          integers.add(poll);
         }
-        int j=cMove;
-        for ( j = cMove-1; j >=0 ; j--) {
-            if (board[rMove][j]!=color&&board[rMove][j]!='.')
-            {
-                continue;
-            }else if(board[rMove][j]=='.')
-            {
-                break;
-            }else
-            {
-                if (j!=cMove-1)
-                {
-                    return true;
-                }
-                break;
-            }
-        }
-        for ( j = cMove+1; j <board[0].length ; j++) {
-            if (board[rMove][j]!=color&&board[rMove][j]!='.')
-            {
-                continue;
-            }else if(board[rMove][j]=='.')
-            {
-                break;
-            }else
-            {
-                if (j!=cMove+1)
-                {
-                    return true;
-                }
-                break;
-            }
-        }
-        for (int k = 1; k <=Math.min(cMove,rMove) ; k++) {
-            if (board[rMove-k][cMove-k]!=color&&board[rMove-k][cMove-k]!='.')
-            {
-                continue;
-            }else if(board[rMove-k][cMove-k]=='.')
-            {
-                break;
-            }else
-            {
-                if (k!=1)
-                {
-                    return true;
-                }
-                break;
-            }
-        }
-        for (int k = 1; k <Math.min(rMove+1,board[0].length-cMove) ; k++) {
-            if (board[rMove-k][cMove+k]!=color&&board[rMove-k][cMove+k]!='.')
-            {
-                continue;
-            }else if(board[rMove-k][cMove+k]=='.')
-            {
-                break;
-            }
-            else
-            {
-                if (k!=1)
-                {
-                    return true;
-                }
-                break;
-            }
-        }
-        for (int k = 1; k <Math.min(board.length-rMove,cMove+1) ; k++) {
-            if (board[rMove+k][cMove-k]!=color&&board[rMove+k][cMove-k]!='.')
-            {
-                continue;
-            }else if(board[rMove+k][cMove-k]=='.')
-            {
-                break;
-            }else
-            {
-                if (k!=1)
-                {
-                    return true;
-                }
-                break;
-            }
-        }
-        for (int k = 1; k <Math.min(board.length,board[0].length) ; k++) {
-            if (board[rMove+k][cMove+k]!=color&&board[rMove+k][cMove+k]!='.')
-            {
-                continue;
-            }else if(board[rMove+k][cMove+k]=='.')
-            {
-                break;
-            }else
-            {
-                if (k!=1)
-                {
-                    return true;
-                }
-                break;
-            }
-        }
-        return false;
-    }
-
-    public static void main(String[] args) {
-
-        char a[][]= {{'B','W','.','B','W','W','B','.'},{'B','.','.','B','W','W','.','.'},{'W','W','.','B','B','.','B','W'},{'B','W','B','.','B','.','B','B'},{'B','W','W','B','.','W','B','B'},{'W','W','.','B','W','B','.','.'},{'W','.','B','W','W','B','.','B'},{'W','.','B','B','.','B','.','.'}};
-
-
-
-
-        new Two().checkMove(a,2,5,'B');
+        return (int) sum;
     }
 }

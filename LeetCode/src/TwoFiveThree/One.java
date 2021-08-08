@@ -1,30 +1,18 @@
 package TwoFiveThree;
 
 public class One {
-    public String makeFancyString(String s) {
-        char[] chars = s.toCharArray();
-        int l=0;
-        int r=0;
+    public boolean isPrefixString(String s, String[] words) {
         StringBuffer stringBuffer = new StringBuffer();
-        while (r<s.length())
-        {
-            if (chars[l]==chars[r])
+        for (int i = 0; i <words.length ; i++) {
+            char[] chars = words[i].toCharArray();
+            for (int j = 0; j <chars.length ; j++) {
+                stringBuffer.append(chars[j]);
+            }
+            if (s.equals(stringBuffer.toString()))
             {
-                r++;
-                if (r-l>=2)
-                {
-
-                }else
-                {
-                    stringBuffer.append(chars[r]);
-                }
-            }else
-            {
-                l=r;
-
+                return true;
             }
         }
-        return stringBuffer.toString();
+        return false;
     }
-
 }
