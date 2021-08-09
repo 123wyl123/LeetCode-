@@ -9,6 +9,7 @@ public class Four {
         if (obstacles.length == 0) {
             return null;
         }
+
         int[] dp = new int[obstacles.length];
         int[] ends = new int[obstacles.length];
         ends[0] = obstacles[0];
