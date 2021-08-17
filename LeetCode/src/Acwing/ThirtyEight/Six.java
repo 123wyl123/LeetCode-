@@ -13,7 +13,6 @@ public class Six {
             String s = scan.readLine();
             char[] chars = s.toCharArray();
             boolean flag =true;
-
             for (int i = 0; i <chars.length-1 ; i++) {
                 if (chars[i]>chars[i+1])
                 {
