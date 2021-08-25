@@ -17,11 +17,13 @@ public class NinetySeven {
             return wwk;
     }
     public  void  dfs(int[][] graph, int cur,LinkedList<Integer> ww)
-    {       if (cur==graph.length-1)
+    {
+        if (cur==graph.length-1)
     {
         wwk.add(new LinkedList<>(ww));
         return;
     }
+
         for (int i : graph[cur]) {
             ww.add(i);
             dfs(graph,i,ww);
