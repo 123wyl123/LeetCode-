@@ -1,5 +1,8 @@
 package Eleven;
 
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+
 public class Nine {
     public int[] corpFlightBookings(int[][] bookings, int n) {
         int b[]=new int[n+1];
@@ -19,6 +22,12 @@ public class Nine {
         for (int i = 0; i <n ; i++) {
             c[i]=a[i+1];
         }
+        System.out.println();
+
         return c;
+
     }
+
+
+
 }
